@@ -12,4 +12,4 @@
 - ⚡ Fun fact: ...
 -->
 
-![My Github stats](https://github-readme-stats.vercel.app/api?username=sampyxis&show_icons=true&theme=synthwave)
+![My Github stats](https://github-readme-stats.vercel.app/api?username=sampyxis&show_icons=true&theme=synthwave&count_private=true)
