@@ -14,5 +14,4 @@
 
 ![My Github stats](https://github-readme-stats.vercel.app/api?username=sampyxis&show_icons=true&theme=synthwave&count_private=true&include_all_commits=true)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sampyxis&theme=synthwave)](https://git.io/streak-stats) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya664&theme=tokyonight)
 [![trophy](https://github-profile-trophy.vercel.app/?username=sampyxis&theme=discord&no-frame=false&no-bg=false&margin-w=4)
